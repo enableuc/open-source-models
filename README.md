@@ -1,2 +1,2 @@
 # Enable UC - Student Organization at the University of Cincinnati
-### EnableUC is a volunteer student organization founded at the University of Cincinnati that utilizes 3D printing to bridge the gap between engineering and medicine.  
+### EnableUC is a volunteer student organization founded at the University of Cincinnati that utilizes 3D printing to bridge the gap between engineering and medicine.  By providing resources and promoting educational outreach, we enable students to design, build, and implement solutions that directly benefit patients with disabilities.  In cases ranging from pediatric prosthetics to assistive devices for traumatic brain injury, we provide functional and cost effective devices that enable patients to overcome disabilities- all for free
